@@ -1,0 +1,4 @@
+Se (condição) então
+    // código a ser executado se a condição for verdadeira
+Senão
+    // código a ser executado se a condição for falsa
