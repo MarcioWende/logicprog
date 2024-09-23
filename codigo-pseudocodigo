@@ -1,0 +1,22 @@
+INÍCIO  
+VARIÁVEIS  
+S,C,I,A,MD:Real;   
+
+S ← 0;  
+C ← 0;  
+
+PARA I de 1 ATÉ 10 FAÇA PASSO 1      
+          Escreva "Digite um número: ";      
+          LEIA A;      
+          SE A ≥ 0 ENTÃO           
+
+               S ← S + A;           
+               C ← C + 1;      
+
+          FIM SE;  
+FIM PARA;   
+
+MD ← S / C;  
+ESCREVER ("A média é: ", MD);   
+
+FIM
