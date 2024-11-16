@@ -1,0 +1,10 @@
+public class ExemploBooleanoSimples {
+    public static void main(String[ ] args) {
+        boolean isJavaFun = true;
+        boolean isFishTasty = false;
+
+        System.out.println("Java é divertido? " + isJavaFun);
+        System.out.println("Peixe é gostoso? " + isFishTasty);
+
+    }
+}
