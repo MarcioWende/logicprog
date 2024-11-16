@@ -1,0 +1,19 @@
+public class TiposFlutuantes {
+    public static void main(String[ ] args) {
+        // Declaração e inicialização de uma variáveis do tipo float e double
+        float numFlot = 3.14159f;
+        double numDouble = 3.141592653589793;
+
+        /// Exibindo os valores das variáveis
+        System.out.printf("Valor de numFloat: %.5f\n" , numFloat);
+        System.out.printf("Valor de numFloat: %.15f\n" , numDouble);
+
+        // Operações com float 
+        float somaFloat = numFloat +  1.0f;
+        System.out.printlf("Soma com numFloat: %.5f\n" , somaFloat);
+
+        // Operações com double
+        double somaDouble = numDouble +  1.0;
+        System.out.printlf("Soma com numDouble: %.15f\n" , somaDouble);
+    }
+}
