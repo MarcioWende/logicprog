@@ -1,0 +1,19 @@
+# Definindo duas variáveis para armazenar números
+numero1 = 10
+numero2 = 5
+
+# Realizando operações aritméticas com os números
+soma = numero1 + numero2
+subtracao = numero1 - numero2
+multiplicacao = numero1 * numero2
+divisao = numero1 / numero2
+modulo = numero1 % numero2
+potenciacao = numero1 ** numero2
+
+# Imprimindo os resultados
+print("Soma:", soma)
+print("Subtração:", subtracao)
+print("Multiplicação:", multiplicacao)
+print("Divisão:", divisao)
+print("Módulo:", modulo)
+print("Potenciação:", potenciacao)
