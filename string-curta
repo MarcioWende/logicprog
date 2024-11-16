@@ -1,0 +1,13 @@
+public class ExemploStringCurto {
+    public static void main(String[ ] args) {
+        String saudacao = "Olá, Mundo!";
+        String nome = "Alice";
+        String mensagem = saudacao + "Meu nome é" + nome + "."; 
+
+        System.out.println(mensagem);
+        System.out.println("Comprimento: " + saudacao.length());
+        System.out.println("Maiúsculas: " + saudacao.toUpperCase());
+        System.out.println("Contém 'Mundo'? " + saudacao.contains("Mundo» ));
+
+    }
+}
