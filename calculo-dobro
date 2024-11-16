@@ -1,0 +1,18 @@
+algoritmo "Calculando o Dodro"
+var
+    numero, resultado  :  inteiro
+
+funcao dodro (n  : inteiro)  :  inteiro
+inicio
+   retorne  n  *  2
+fimfuncao
+
+inicio
+   escreva ("Digite um numero:  ")
+  leia (numero)
+
+ resultado <- dobro (numero)
+ 
+ escreval ("O dobro é:  ", resultado)
+
+fimalgoritmo 
