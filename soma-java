@@ -1,0 +1,20 @@
+public class Soma {
+    // Função para calcular a soma de dois números
+    public static int soma(int num1, int num2) {
+        int resultado = num1 + num2;
+        return resultado;
+    }
+
+    // Função principal (main) para testar a função 'soma'
+    public static void main(String[] args) {
+        // Definindo dois números para calcular a soma
+        int a = 5;
+        int b = 3;
+
+        // Chamando a função 'soma' e armazenando o resultado em 'resultadoSoma'
+        int resultadoSoma = soma(a, b);
+
+        // Imprimindo o resultado
+        System.out.println("A soma de " + a + " e " + b + " é: " + resultadoSoma);
+    }
+}
