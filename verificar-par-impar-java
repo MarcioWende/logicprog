@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class VerificarParImpar {
+    public static void main(String[] args) {
+        // Criação de um objeto Scanner para ler a entrada do usuário
+        Scanner scanner = new Scanner(System.in);
+
+        // Solicitação do número ao usuário
+        System.out.print("Digite um número: ");
+        int numero = scanner.nextInt();
+
+        // Verificação se o número é par ou ímpar
+        if (numero % 2 == 0) {
+            System.out.println("O número é par");
+        } else {
+            System.out.println("O número é ímpar");
+        }
+
+        // Fechando o Scanner para evitar vazamentos de recursos
+        scanner.close();
+    }
+}
