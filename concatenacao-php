@@ -1,0 +1,17 @@
+<?php
+// Exemplo 1: Concatenando strings
+$nome = "Alice";
+$sobrenome = "Silva";
+$nomeCompleto = $nome . " " . $sobrenome;
+echo "Nome completo: $nomeCompleto";
+
+// Exemplo 2: Obtendo o comprimento da string
+$frase = "Esta é uma frase de exemplo.";
+$comprimento = strlen($frase);
+echo "Comprimento da frase: $comprimento";
+
+// Exemplo 3: Transformando para maiúsculas
+$texto = "PHP é uma linguagem de programação";
+$textoMaiusculo = strtoupper($texto);
+echo "Texto em maiúsculas: $textoMaiusculo";
+?>
