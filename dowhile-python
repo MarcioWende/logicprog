@@ -1,0 +1,14 @@
+public class ExemploDoWhile {
+    public static void main(String[] args) {
+        int contador = 1; // Inicializa o contador
+
+        // Executa o bloco de código pelo menos uma vez e 
+        depois verifica a condição
+        do {
+            // Imprime o valor do contador
+           System.out.println(contador); 
+            contador++; // Incrementa o contador
+         // Verifica se o contador é menor ou igual a 5   
+        } while (contador <= 5); 
+    }
+}
