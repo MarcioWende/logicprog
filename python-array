@@ -1,0 +1,19 @@
+import array
+
+# Criando um array de inteiros
+numeros = array.array('i', [1, 2, 3, 4, 5])
+
+# Exibindo os elementos do array
+print("Array original:", numeros)
+
+# Adicionando um elemento ao array
+numeros.append(6)
+print("Array após adicionar um elemento:", numeros)
+
+# Removendo um elemento do array
+numeros.remove(2)
+print("Array após remover um elemento:", numeros)
+
+# Acessando elementos do array
+print("Primeiro elemento:", numeros[0])
+print("Último elemento:", numeros[-1])
