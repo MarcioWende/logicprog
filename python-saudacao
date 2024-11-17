@@ -1,0 +1,19 @@
+# Definindo a função saudacao
+def saudacao(nome):
+   
+    """
+    Esta função recebe um nome como 
+    argumento e retorna uma mensagem de saudação.
+    """
+    # Criando a mensagem de saudação usando 
+        uma f-string para formatação
+    mensagem = f"Olá, {nome}! Bem-vindo!"
+    
+    # Retornando a mensagem de saudação
+    return mensagem
+
+# Chamando a função com o nome "Maria"
+resultado = saudacao("Maria")
+
+# Exibindo o resultado da função no console
+print(resultado)  # Saída: Olá, Maria! Bem-vindo!
