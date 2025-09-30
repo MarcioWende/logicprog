@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Exemplo de Object em JavaScript</title>
+</head>
+<body>
+  <h2>Exemplo de Object em JavaScript</h2>
+  <div id="resultado"></div>
+
+  <script>
+    // Criando um objeto
+    let pessoa = {
+      nome: "Klenilmar",
+      idade: 50,
+      profissao: "Professor",
+      saudacao: function() {
+        return `Olá, meu nome é ${this.nome} e sou ${this.profissao}.`;
+      }
+    };
+
+    // Exibindo dados do objeto na página
+    document.getElementById("resultado").innerHTML = `
+      <p>Nome: ${pessoa.nome}</p>
+      <p>Idade: ${pessoa.idade}</p>
+      <p>Profissão: ${pessoa.profissao}</p>
+      <p>Saudação: ${pessoa.saudacao()}</p>
+    `;
+  </script>
+</body>
+</html>
