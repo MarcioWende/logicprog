@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Exemplo de String em JavaScript</title>
+</head>
+<body>
+  <h2>Exemplo de String em JavaScript</h2>
+  <p>Abra o console do navegador (F12) para ver os resultados.</p>
+
+  <script>
+    // Exemplo de String em JavaScript
+
+    let nome = "Maria";      // String entre aspas duplas
+    let saudacao = 'Olá!';   // String entre aspas simples
+    let mensagem = `Bem-vinda, ${nome}!`; // Template String com interpolação
+
+    console.log(nome);      // Saída: Maria
+    console.log(saudacao);  // Saída: Olá!
+    console.log(mensagem);  // Saída: Bem-vinda, Maria!
+  </script>
+</body>
+</html>
