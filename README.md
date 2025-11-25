@@ -1,40 +1,5 @@
-Este Termo de Uso estabelece as condições para utilização do aplicativo educacional denominado LOGICPROG, doravante referido como " LOGICPROG: APRENDIZAGEM EM LÓGICA DE PROGRAMAÇÃO". Disponibilizado e mantido por Márcio Wendel de Lima Neri, Macapá – Amapá – Brasil. Ao utilizar este Aplicativo, o usuário concorda com os termos aqui descritos.
+Este Termo de Uso e Política de Privacidade regula a utilização do aplicativo LOGICPROG: Aprendizagem em Lógica de Programação, disponibilizado gratuitamente para fins educacionais e de pesquisa como parte da investigação intitulada “A aprendizagem em lógica de programação com auxílio da inteligência computacional”, vinculada ao Programa de Pós-Graduação em Educação Profissional e Tecnológica do Instituto Federal do Amapá (IFAP). Ao instalar ou utilizar o Aplicativo, o usuário declara que leu, compreendeu e concorda com os termos aqui estabelecidos. Caso não concorde com qualquer disposição, não deve utilizar o Aplicativo. O LOGICPROG é destinado exclusivamente a atividades educacionais, científicas e à coleta de informações necessárias para a pesquisa mencionada. O aplicativo é gratuito e respeita as Leis 9.610/98 (Direitos Autorais) e 9.279/96 (Propriedade Industrial), estando disponível em lojas oficiais de aplicativos, como Google Play e App Store, cujas regras e políticas também se aplicam ao usuário.
 
-Nesta Plataforma, você pode ter acesso aos conteúdos que auxiliam no aprendizado em lógica de programação, o aplicativo é parte integrante da pesquisa “A aprendizagem em lógica de programação com auxílio da inteligência computacional” do Programa de Pós-Graduação em Educação Profissional e Tecnológica, ofertado pelo Instituto Federal de Educação, Ciência e Tecnologia do Amapá, Mestra em Educação Profissional e Tecnológica. O aplicativo é totalmente grátis, obedecendo as leis 9.610/98 e 9.279/96 para uso e citação.
+O Aplicativo poderá coletar dados pessoais fornecidos voluntariamente pelo usuário, como nome, endereço de e-mail, data de nascimento e informações gerais sobre o uso do sistema, tais como métricas de acesso e navegação. Esses dados serão utilizados exclusivamente para oferecer acesso aos conteúdos educacionais, personalizar a experiência de uso, aprimorar o funcionamento do Aplicativo e subsidiar a pesquisa de mestrado relacionada. Nenhum dado coletado será utilizado para fins publicitários, comerciais ou compartilhado com terceiros sob qualquer circunstância. Todos os dados serão armazenados de forma segura, seguindo as diretrizes da Lei Geral de Proteção de Dados Pessoais (LGPD – Lei nº 13.709/2018). As informações coletadas serão mantidas pelo prazo máximo de cinco anos, conforme previsto no Termo de Consentimento Livre e Esclarecido (TCLE) da pesquisa, sendo posteriormente excluídas de forma definitiva. O usuário pode solicitar a exclusão de seus dados pessoais a qualquer momento por meio do e-mail disponibilizado.
 
-O acesso ao aplicativo e feito pelas lojas de aplicativos, tanto para Android como IOS. A utilização dessas plataformas para obtenção do App, está sujeito as regras dessas plataformas. Você não pode usar o aplicativo se não concorda com os termos de uso. O uso do aplicativo é destinado apenas fins educacionais e pesquisas.
-
-1. Dados Coletados e Utilização
-
-1.1. Coleta de Dados: O Aplicativo poderá coletar dados pessoais dos usuários, tais como nome, endereço de e-mail, data de nascimento, entre outros, conforme necessário para a pesquisa educacional e melhoria da experiencia de navegação do usuário.
-
-1.2. Finalidade da Coleta: Os dados coletados serão utilizados exclusivamente para os seguintes propósitos:
-
-Fornece acesso aos      recursos educacionais do Aplicativo;
-
-Personalizar a      experiência do usuário dentro do Aplicativo;
-
-Melhorar os serviços      oferecidos, mediante análise de uso e feedback dos usuários.
-
-Para pesquisa de      Mestrado citada anteriormente.
-
-1.3. Coleta, Conservação e Segurança dos Dados: Os dados pessoais coletados serão protegidos e conservados de forma segura, de acordo com as diretrizes da Lei Geral de Proteção de Dados Pessoais (LGPD - Lei nº 13.709/2018). Os dados serão mantidos por um período de 5 (cinco) anos, ao termino deste período, serão excluídos, conforme Termo de Consentimento Livre e Esclarecido (TCLE) assinado pelos sujeitos da pesquisa e Lei Geral de Proteção de Dados Pessoais.
-
-Em hipótese alguma serão compartilhados com terceiro ou utilizados para fins de comunicação e propaganda.
-
-2. Uso dos Dados Pessoais
-2.1. Restrição de Uso: Em hipótese alguma os dados pessoais dos usuários serão utilizados para fins diversos dos estabelecidos neste Termo de Uso e no TCLE da pesquisa de mestrado associada ao Aplicativo.
-
-3. Direitos dos Usuários
-3.2. Exclusão de Dados: Os usuários podem solicitar a exclusão de seus dados pessoais a qualquer momento.
-
-4. Disposições Gerais
-4.1. Alterações no Termo de Uso: Este Termo de Uso poderá ser alterado pelo pesquisador responsável pelo Aplicativo a qualquer momento, mediante comunicação aos usuários. O uso contínuo do Aplicativo após tais alterações constitui aceitação dos termos revisados.
-
-4.2. Legislação Aplicável: Este Termo de Uso será regido e interpretado de acordo com as leis da República Federativa do Brasil.
-
-4.3 O App é gratuito para baixar, Não há cobrança par acessar os conteúdos, contudo, parte do código-fonte não é aberto, definido como um software proprietário. 
-
-Ao utilizar o Aplicativo, o usuário reconhece ter lido, entendido e concordado com todas as disposições deste Termo de Uso. Qualquer dúvida ou questionamento sobre este documento pode ser encaminhado para o e-mail: marcio.wendel.neri@gmail.com
-
-Agradecemos por utilizar nosso aplicativo e colaborar com essa pesquisa educacional!
+Nos termos da LGPD, o usuário possui direito de confirmar a existência de tratamento de seus dados, solicitar acesso às informações armazenadas, corrigir dados incompletos, imprecisos ou desatualizados, além de requerer a exclusão de seus dados pessoais. O Aplicativo deve ser utilizado de forma ética e responsável, sendo proibido seu uso para fins ilícitos, comerciais ou que violem direitos autorais. Qualquer solicitação ou dúvida relativa ao uso do Aplicativo ou ao tratamento de dados pessoais poderá ser encaminhada para o e-mail marcio.wendel.neri@gmail.com
